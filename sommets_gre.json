@@ -1,0 +1,4926 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-07-26T13:08:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 26862616,
+      "lat": 45.3927778,
+      "lon": 6.0377778,
+      "tags": {
+        "ele": "1210",
+        "name": "Brame Farine",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26862779,
+      "lat": 45.3082229,
+      "lon": 5.8555566,
+      "tags": {
+        "ele": "2062",
+        "name": "Dent de Crolles",
+        "natural": "peak",
+        "wikidata": "Q729243",
+        "wikipedia": "fr:Dent de Crolles"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26863018,
+      "lat": 45.3704545,
+      "lon": 5.8120021,
+      "tags": {
+        "ele": "2026",
+        "name": "Le Grand Som",
+        "natural": "peak",
+        "summit:cross": "yes",
+        "wikidata": "Q2782043",
+        "wikipedia": "fr:Grand Som"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26863023,
+      "lat": 44.7752786,
+      "lon": 5.8394587,
+      "tags": {
+        "ele": "2789",
+        "name": "Grande Tête de l'Obiou",
+        "natural": "peak",
+        "wikidata": "Q1813560"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26863520,
+      "lat": 44.9819478,
+      "lon": 5.9344417,
+      "tags": {
+        "ele": "2792",
+        "name": "Le Grand Armet",
+        "natural": "peak",
+        "wikidata": "Q3113506"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26863529,
+      "lat": 45.2346628,
+      "lon": 5.7102326,
+      "tags": {
+        "ele": "1298",
+        "name": "Le Néron",
+        "natural": "peak",
+        "wikidata": "Q3347188",
+        "wikipedia": "fr:Néron (Isère)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26863532,
+      "lat": 44.9769219,
+      "lon": 5.8554099,
+      "tags": {
+        "name": "Le Tabor 2389 m",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26863738,
+      "lat": 45.4664062,
+      "lon": 5.847248,
+      "tags": {
+        "ele": "1686",
+        "name": "Mont Outheran",
+        "natural": "peak",
+        "source": "GPS précision 5m",
+        "summit:cross": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26863761,
+      "lat": 44.7241179,
+      "lon": 5.6472031,
+      "tags": {
+        "ele": "2051",
+        "name": "Montagne de Jocou",
+        "natural": "peak",
+        "note": "Position précise",
+        "wikidata": "Q3179923"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26863773,
+      "lat": 44.991861,
+      "lon": 5.7245036,
+      "tags": {
+        "ele": "1711",
+        "name": "La Peyrouse",
+        "natural": "peak",
+        "wikidata": "Q3377869"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26864228,
+      "lat": 45.1377652,
+      "lon": 6.1355776,
+      "tags": {
+        "description": "Borne SGA - Point vu en place en 1983",
+        "ele": "3465.45",
+        "man_made": "survey_point",
+        "name": "Pic Bayle",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3811203 - 1",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ;mise à jour : 2009;©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3811203",
+        "wikidata": "Q3382285"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26864271,
+      "lat": 45.0072189,
+      "lon": 6.0961107,
+      "tags": {
+        "ele": "2338",
+        "name": "Pied Moutet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26864344,
+      "lat": 44.9755607,
+      "lon": 6.0330526,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "ele": "3049",
+        "name": "Pointe de Malhaubert",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26864466,
+      "lat": 45.3352569,
+      "lon": 5.7029086,
+      "tags": {
+        "ele": "1920",
+        "name": "La Grande Sure",
+        "natural": "peak",
+        "note": "coordonnées+alti relevées au GPS (précision 5m)",
+        "wikidata": "Q3115031",
+        "wikipedia": "fr:Grande Sure"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26864747,
+      "lat": 45.1686389,
+      "lon": 5.9881723,
+      "tags": {
+        "ele": "2926",
+        "name": "Croix de Belledonne",
+        "natural": "peak",
+        "summit:cross": "yes",
+        "wikidata": "Q3003298",
+        "wikipedia": "fr:Croix de Belledonne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30552701,
+      "lat": 45.2570894,
+      "lon": 6.0307251,
+      "tags": {
+        "aerialway": "station",
+        "ele": "2100",
+        "name": "Grand Cerf",
+        "natural": "peak",
+        "ref": "15",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245799250,
+      "lat": 45.4965654,
+      "lon": 5.8938506,
+      "tags": {
+        "ele": "1486",
+        "name": "Pointe de la Gorgeat",
+        "natural": "peak",
+        "source": "GPS",
+        "source:ele": "Panneau indicateur sur place",
+        "wikidata": "Q16058288"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249167216,
+      "lat": 45.318075,
+      "lon": 6.0547724,
+      "tags": {
+        "ele": "1803",
+        "name": "Crêt Luisard",
+        "natural": "peak",
+        "wikidata": "Q3006341",
+        "wikipedia": "fr:Crêt Luisard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252224664,
+      "lat": 45.3524661,
+      "lon": 6.1978852,
+      "tags": {
+        "ele": "2807",
+        "name": "Pic du Frêne",
+        "natural": "peak",
+        "note": "obtenu avec cadastre, coordonnées GPS souhatables",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+        "wikidata": "Q770346",
+        "wikipedia": "fr:Pic du Frêne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252456360,
+      "lat": 45.5374102,
+      "lon": 5.9355521,
+      "tags": {
+        "ele": "610",
+        "name": "Croix de la Coche",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253727447,
+      "lat": 45.1251924,
+      "lon": 6.1276407,
+      "tags": {
+        "ele": "3323",
+        "name": "Pic du Lac Blanc",
+        "natural": "peak",
+        "short_name": "Pic Blanc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266714736,
+      "lat": 45.5192238,
+      "lon": 6.0584249,
+      "tags": {
+        "information": "board",
+        "name": "rocher de Manettaz 1080 m",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 275833212,
+      "lat": 45.4915776,
+      "lon": 5.8976991,
+      "tags": {
+        "ele": "1559",
+        "name": "Mont Joigny",
+        "natural": "peak",
+        "source": "GPS",
+        "wikidata": "Q3321892"
+      }
+    },
+    {
+      "type": "node",
+      "id": 275972855,
+      "lat": 45.4674761,
+      "lon": 5.9244663,
+      "tags": {
+        "ele": "1900",
+        "historic": "wayside_cross",
+        "name": "Croix du Mont Granier",
+        "natural": "peak",
+        "note": "alti était 1904, changée en 1900 par mesures (base de la croix)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 277694145,
+      "lat": 45.2883257,
+      "lon": 5.7382045,
+      "tags": {
+        "ele": "1771",
+        "name": "La Pinéa",
+        "natural": "peak",
+        "wikidata": "Q582244",
+        "wikipedia": "fr:Pinéa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 289851015,
+      "lat": 45.0273481,
+      "lon": 5.4606029,
+      "tags": {
+        "name": "La Vierge du Vercors",
+        "natural": "peak",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 291965339,
+      "lat": 45.4067688,
+      "lon": 6.1986294,
+      "tags": {
+        "ele": "2498",
+        "name": "Les Grands Moulins",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 315917192,
+      "lat": 45.2008395,
+      "lon": 5.9805435,
+      "tags": {
+        "ele": "2506",
+        "name": "Grand Replomb",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 316033846,
+      "lat": 45.1308934,
+      "lon": 5.930888,
+      "tags": {
+        "ele": "2448",
+        "name": "Grand Van",
+        "natural": "peak",
+        "note": "Le sommet est une crête E-O de 50 m. Point mis à l'E au niveau de la ligne de partage des eaux. Un autre sommet plus à l'O, hors crête, avec kairn (et plus haut?) existe aussi.",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 316033862,
+      "lat": 45.1371171,
+      "lon": 5.9155171,
+      "tags": {
+        "ele": "2232",
+        "name": "Grand Eulier",
+        "natural": "peak",
+        "source": "GPS+GLONASS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 316034128,
+      "lat": 45.2368246,
+      "lon": 5.7606939,
+      "tags": {
+        "alt_name": "Croix de l'Izon",
+        "ele": "1359",
+        "name": "Saint-Eynard",
+        "natural": "peak",
+        "wikipedia": "fr:Mont Saint-Eynard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 318114601,
+      "lat": 45.1754603,
+      "lon": 5.956577,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "ele": "2596",
+        "name": "Petite Lance de Domène",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955216,
+      "lat": 45.020702,
+      "lon": 6.1746597,
+      "tags": {
+        "ele": "2486",
+        "name": "Grande Sûre",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955219,
+      "lat": 44.9668986,
+      "lon": 6.0865835,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "ele": "2830",
+        "name": "Aiguille de Vénosc",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955255,
+      "lat": 44.9556255,
+      "lon": 6.1509704,
+      "tags": {
+        "ele": "2574",
+        "name": "Roche Ruinée",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955260,
+      "lat": 45.066236,
+      "lon": 6.0860524,
+      "tags": {
+        "ele": "2176",
+        "name": "Signal de l'Homme",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955335,
+      "lat": 45.0732088,
+      "lon": 6.1344966,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "ele": "2373",
+        "name": "La Croix de Cassini",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955336,
+      "lat": 45.1544421,
+      "lon": 6.1439174,
+      "tags": {
+        "description": "Bloc de béton : Repère scellé dans sa face supérieure - Point vu en place en 1987",
+        "ele": "3463.62",
+        "man_made": "survey_point",
+        "name": "Pic de l'Étendard",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "7328001 - 1",
+        "source": "IGN dans le cadre de la cartographie réglementaire 2010",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7328001",
+        "wikidata": "Q24932778"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955340,
+      "lat": 45.1835733,
+      "lon": 6.1251901,
+      "tags": {
+        "name": "Les Aiguillettes de Vaujany",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353048839,
+      "lat": 45.4324204,
+      "lon": 5.904079,
+      "tags": {
+        "ele": "1867",
+        "name": "Le Pinet",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+        "wikidata": "Q16677452"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355673746,
+      "lat": 45.1835567,
+      "lon": 5.9505127,
+      "tags": {
+        "ele": "2195",
+        "name": "Pointe de la Sitre",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356382329,
+      "lat": 45.2999798,
+      "lon": 6.1402593,
+      "tags": {
+        "ele": "2866",
+        "name": "Pointe de Comberousse",
+        "natural": "peak",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 362664318,
+      "lat": 45.5397,
+      "lon": 6.0259,
+      "tags": {
+        "ele": "1301",
+        "name": "Montgelas",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+      }
+    },
+    {
+      "type": "node",
+      "id": 365909067,
+      "lat": 45.4142966,
+      "lon": 6.2130852,
+      "tags": {
+        "name": "La Grande Roche Blanche",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367112497,
+      "lat": 45.428778,
+      "lon": 5.8443619,
+      "tags": {
+        "ele": "1429",
+        "name": "Roche Veyrand",
+        "natural": "peak",
+        "summit:cross": "yes",
+        "wikidata": "Q3437525",
+        "wikipedia": "fr:Roche Veyrand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368006357,
+      "lat": 45.1327023,
+      "lon": 6.1293104,
+      "tags": {
+        "name": "Pic de la Pyramide",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368307587,
+      "lat": 45.1095625,
+      "lon": 6.1160766,
+      "tags": {
+        "ele": "3012",
+        "name": "Pic de l'Herpie",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+      }
+    },
+    {
+      "type": "node",
+      "id": 370899689,
+      "lat": 44.910203,
+      "lon": 5.7745446,
+      "tags": {
+        "historic": "boundary_stone",
+        "name": "Le Cimon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 370900135,
+      "lat": 44.9137612,
+      "lon": 5.7370621,
+      "tags": {
+        "name": "Serre de l'Horizon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 378315800,
+      "lat": 45.4313851,
+      "lon": 6.207959,
+      "tags": {
+        "ele": "2083",
+        "name": "Le Chapotet",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387868458,
+      "lat": 44.9574279,
+      "lon": 6.1513137,
+      "tags": {
+        "name": "Aiguille de Lanchâtra",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387868459,
+      "lat": 44.9370002,
+      "lon": 6.1490821,
+      "tags": {
+        "ele": "2875",
+        "name": "Le Pierroux",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387868460,
+      "lat": 44.939403,
+      "lon": 6.1514854,
+      "tags": {
+        "ele": "2739",
+        "name": "Le Peigne",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387868461,
+      "lat": 44.9261398,
+      "lon": 6.1510908,
+      "tags": {
+        "ele": "3341",
+        "name": "Tête de Lauranoure",
+        "natural": "peak",
+        "wikidata": "Q3546927"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387868462,
+      "lat": 44.9148988,
+      "lon": 6.1474513,
+      "tags": {
+        "ele": "3231",
+        "name": "Tête du Salude",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387868463,
+      "lat": 44.9511728,
+      "lon": 6.2145819,
+      "tags": {
+        "ele": "3118",
+        "name": "Tête de la Marsare",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387868464,
+      "lat": 44.9566935,
+      "lon": 6.2149683,
+      "tags": {
+        "ele": "3168",
+        "name": "Tête du Graou",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389043663,
+      "lat": 44.9927481,
+      "lon": 6.2044788,
+      "tags": {
+        "ele": "3292",
+        "name": "Le Jandri",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502280,
+      "lat": 44.9085688,
+      "lon": 6.180909,
+      "tags": {
+        "ele": "2968",
+        "name": "Le Caneton",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502281,
+      "lat": 44.9125001,
+      "lon": 6.1861876,
+      "tags": {
+        "ele": "2845",
+        "name": "Tête de la Caborne",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502282,
+      "lat": 44.91683,
+      "lon": 6.1860751,
+      "tags": {
+        "ele": "2765",
+        "name": "Tête du Pouget",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502283,
+      "lat": 44.8997499,
+      "lon": 6.179552,
+      "tags": {
+        "ele": "3266",
+        "name": "Aiguille du Canard",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502285,
+      "lat": 44.899406,
+      "lon": 6.1489104,
+      "tags": {
+        "ele": "3151",
+        "name": "Pointe de la Mariande",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502286,
+      "lat": 44.896445,
+      "lon": 6.1654758,
+      "tags": {
+        "ele": "3137",
+        "name": "Pointe du Grand Vallon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502325,
+      "lat": 44.9080753,
+      "lon": 6.1148357,
+      "tags": {
+        "ele": "3300",
+        "name": "Pointe Swan",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502327,
+      "lat": 44.914856,
+      "lon": 6.1121749,
+      "tags": {
+        "ele": "3251",
+        "name": "Pointe Marguerite",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502328,
+      "lat": 44.9404329,
+      "lon": 6.1164664,
+      "tags": {
+        "ele": "3034",
+        "name": "Le Petit Roux",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502329,
+      "lat": 44.9675797,
+      "lon": 6.1351122,
+      "tags": {
+        "ele": "2264",
+        "name": "Sommet du Soreiller",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502335,
+      "lat": 44.909191,
+      "lon": 6.1441039,
+      "tags": {
+        "ele": "3263",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502336,
+      "lat": 44.8946859,
+      "lon": 6.173973,
+      "tags": {
+        "ele": "3400",
+        "name": "Aiguille des Arias",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502337,
+      "lat": 44.8901322,
+      "lon": 6.1772271,
+      "tags": {
+        "ele": "3290",
+        "name": "Aiguille d'Entre-Pierroux",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502338,
+      "lat": 44.8824152,
+      "lon": 6.1799737,
+      "tags": {
+        "ele": "3157",
+        "name": "Aiguille Rousse",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502339,
+      "lat": 44.877005,
+      "lon": 6.1873626,
+      "tags": {
+        "ele": "3329",
+        "name": "Pointe Maximin",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502340,
+      "lat": 44.877133,
+      "lon": 6.2000655,
+      "tags": {
+        "ele": "3383",
+        "name": "Aiguille d'Olan",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502733,
+      "lat": 44.8537691,
+      "lon": 6.2222957,
+      "tags": {
+        "ele": "3418",
+        "name": "Cime du Vallon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502734,
+      "lat": 44.8528776,
+      "lon": 6.1700098,
+      "tags": {
+        "ele": "3031",
+        "name": "Pic Turbat",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502735,
+      "lat": 44.863872,
+      "lon": 6.1338042,
+      "tags": {
+        "ele": "3099",
+        "name": "Pic des Souffles",
+        "natural": "peak",
+        "wikidata": "Q7190475"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389502736,
+      "lat": 44.894257,
+      "lon": 6.1001586,
+      "tags": {
+        "ele": "3057",
+        "name": "Aiguille des Marmes",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 390362982,
+      "lat": 44.9837779,
+      "lon": 6.1832427,
+      "tags": {
+        "ele": "2918",
+        "name": "Tête de la Toura",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 390362983,
+      "lat": 44.9910949,
+      "lon": 6.159253,
+      "tags": {
+        "ele": "2816",
+        "name": "Tête Moute",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 390362984,
+      "lat": 44.9886269,
+      "lon": 6.1635875,
+      "tags": {
+        "ele": "2872",
+        "name": "Pic du Diable",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 390362985,
+      "lat": 45.0000097,
+      "lon": 6.19174,
+      "tags": {
+        "ele": "3071",
+        "name": "Tête du lac Noir",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 390362986,
+      "lat": 45.0099016,
+      "lon": 6.1969756,
+      "tags": {
+        "ele": "3052",
+        "name": "Roche Mantel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 410304217,
+      "lat": 44.8417918,
+      "lon": 5.5522225,
+      "tags": {
+        "ele": "2087",
+        "name": "Mont Aiguille",
+        "natural": "peak",
+        "wikidata": "Q1337859"
+      }
+    },
+    {
+      "type": "node",
+      "id": 416114868,
+      "lat": 45.2805648,
+      "lon": 5.8383608,
+      "tags": {
+        "ele": "1217",
+        "name": "Château Nardent",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430876723,
+      "lat": 45.3584354,
+      "lon": 5.8973299,
+      "tags": {
+        "ele": "1836",
+        "name": "Croix",
+        "name:fr": "L'Aulp du Seuil",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 457465696,
+      "lat": 45.0031825,
+      "lon": 5.5587277,
+      "tags": {
+        "ele": "2156",
+        "name": "La Petite Moucherolle",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 464779382,
+      "lat": 45.0394469,
+      "lon": 5.9142883,
+      "tags": {
+        "ele": "2696",
+        "name": "Le Petit Taillefer",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471087701,
+      "lat": 45.1742956,
+      "lon": 5.9473789,
+      "tags": {
+        "ele": "2390",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471087728,
+      "lat": 45.1762807,
+      "lon": 5.9428675,
+      "tags": {
+        "ele": "2355",
+        "name": "Petite Lance du Crozet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 474367416,
+      "lat": 45.3153458,
+      "lon": 5.3887072,
+      "tags": {
+        "ele": "625",
+        "name": "La Blache",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 474367417,
+      "lat": 45.3163782,
+      "lon": 5.3939652,
+      "tags": {
+        "ele": "629",
+        "name": "Le Truc",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 490309683,
+      "lat": 45.033462,
+      "lon": 5.5920834,
+      "tags": {
+        "ele": "1974",
+        "name": "Sommet du Ranc des Agnelons",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 526533747,
+      "lat": 45.0901438,
+      "lon": 5.6200636,
+      "tags": {
+        "ele": "1966",
+        "name": "Pic Saint-Michel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 531732578,
+      "lat": 45.154904,
+      "lon": 5.79895,
+      "tags": {
+        "ele": "903",
+        "name": "Le Fournet",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour :2009"
+      }
+    },
+    {
+      "type": "node",
+      "id": 569260517,
+      "lat": 45.3183347,
+      "lon": 6.1103047,
+      "tags": {
+        "ele": "1829",
+        "name": "Croix Léat",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580925021,
+      "lat": 45.2368552,
+      "lon": 6.0538849,
+      "tags": {
+        "ele": "2718",
+        "name": "Pic de la Belle Étoile",
+        "natural": "peak",
+        "wikidata": "Q3382404",
+        "wikipedia": "fr:Pic de la Belle Étoile"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580959540,
+      "lat": 45.2117535,
+      "lon": 6.0130862,
+      "tags": {
+        "ele": "2312",
+        "name": "Pointe du Sciallet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580959543,
+      "lat": 45.2138395,
+      "lon": 6.016219,
+      "tags": {
+        "ele": "2286",
+        "name": "Pointe du Sifflet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580959544,
+      "lat": 45.2001898,
+      "lon": 6.0000251,
+      "tags": {
+        "ele": "2622",
+        "name": "Ferrouillet - Pointe Sud",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580959545,
+      "lat": 45.2025619,
+      "lon": 5.9982803,
+      "tags": {
+        "ele": "2587",
+        "name": "Ferrouillet - Pointe Centrale Sud",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580959546,
+      "lat": 45.2053739,
+      "lon": 5.9984091,
+      "tags": {
+        "ele": "2571",
+        "name": "Pointe Centrale Nord",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580959547,
+      "lat": 45.2319864,
+      "lon": 6.017289,
+      "tags": {
+        "ele": "2325",
+        "name": "Jas des Lièvres",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580959548,
+      "lat": 45.2075811,
+      "lon": 6.0062626,
+      "tags": {
+        "ele": "2475",
+        "name": "Pointe de la Scia",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580981367,
+      "lat": 45.1883662,
+      "lon": 5.9870646,
+      "tags": {
+        "ele": "2755",
+        "name": "Rocher de l'Homme",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580981368,
+      "lat": 45.1712625,
+      "lon": 5.9916942,
+      "tags": {
+        "ele": "2977",
+        "name": "Grand Pic de Belledonne",
+        "natural": "peak",
+        "source": "GPS",
+        "wikidata": "Q3113702",
+        "wikipedia": "fr:Grand Pic de Belledonne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580981369,
+      "lat": 45.1710024,
+      "lon": 5.9749115,
+      "tags": {
+        "ele": "2764",
+        "name": "Pic Couttet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580981370,
+      "lat": 45.1618647,
+      "lon": 5.9708345,
+      "tags": {
+        "ele": "2802",
+        "name": "Pic du Grand Doménon",
+        "natural": "peak",
+        "wikidata": "Q3382427",
+        "wikipedia": "fr:Pic du Grand Doménon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580981377,
+      "lat": 45.1572374,
+      "lon": 5.9589657,
+      "tags": {
+        "ele": "2741",
+        "name": "Grande Lauzière",
+        "natural": "peak",
+        "wikidata": "Q3114954",
+        "wikipedia": "fr:Grande Lauzière"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581058545,
+      "lat": 45.0390264,
+      "lon": 5.939989,
+      "tags": {
+        "ele": "2839",
+        "name": "La Pyramide",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581058546,
+      "lat": 45.0435447,
+      "lon": 5.9409331,
+      "tags": {
+        "ele": "2783",
+        "name": "Les Rochères",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601057931,
+      "lat": 45.3884903,
+      "lon": 6.146622,
+      "tags": {
+        "ele": "2100",
+        "name": "Les Plagnes",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 619482705,
+      "lat": 45.3066305,
+      "lon": 6.0515808,
+      "tags": {
+        "ele": "1919",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670140449,
+      "lat": 45.1864372,
+      "lon": 5.5923808,
+      "tags": {
+        "description": "Borne en granit gravée IGN - Point vu en place en 1952",
+        "ele": "1709.36",
+        "man_made": "survey_point",
+        "name": "Charande",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3802105 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3802105"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670140790,
+      "lat": 45.4326762,
+      "lon": 5.937647,
+      "tags": {
+        "description": "Borne en granit gravée IGN (1949) - Point vu en place en 1950",
+        "ele": "1843.41",
+        "man_made": "survey_point",
+        "name": "Rochers de Belles Ombres",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3807502 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3807502"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670140806,
+      "lat": 45.4647974,
+      "lon": 5.9251184,
+      "tags": {
+        "description": "Borne en granit gravée IGN - Point vu en place en 1994",
+        "ele": "1932.31",
+        "man_made": "survey_point",
+        "name": "Mont Granier",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "38075A - D",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=38075A",
+        "wikidata": "Q938010",
+        "wikipedia": "fr:Mont Granier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670140904,
+      "lat": 45.111501,
+      "lon": 6.1334122,
+      "tags": {
+        "description": "Rocher : Plaquette géodésique scellée - Point vu en place en 1983",
+        "ele": "3062.7",
+        "man_made": "survey_point",
+        "name": "Sommet Sud de Sarenne",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3811202 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3811202"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670140964,
+      "lat": 45.004892,
+      "lon": 5.5641288,
+      "tags": {
+        "description": "Borne SGA - Point vu en place en 1956",
+        "ele": "2284.87",
+        "man_made": "survey_point",
+        "name": "La Grande Moucherolle",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3812901 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3812901",
+        "wikidata": "Q3114991"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141026,
+      "lat": 45.1965826,
+      "lon": 5.6483582,
+      "tags": {
+        "description": "Borne en granit gravée IGN - Point vu en place en 2001",
+        "ele": "1069.41",
+        "man_made": "survey_point",
+        "name": "Mollard Gargot",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3815301 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3815301"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141063,
+      "lat": 45.2387502,
+      "lon": 6.0404027,
+      "tags": {
+        "description": "Cairn : Tube centre : Axe et base - Point vu en place en 1987",
+        "ele": "2624.81",
+        "man_made": "survey_point",
+        "name": "Dent du Pra",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3816303 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3816303"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141086,
+      "lat": 45.2364776,
+      "lon": 6.1033636,
+      "tags": {
+        "description": "Cairn : Axe et sommet - Point vu en place en 1942",
+        "ele": "2914.9",
+        "man_made": "survey_point",
+        "name": "La Pyramide",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3816320 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3816320"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141329,
+      "lat": 45.0903378,
+      "lon": 5.959343,
+      "tags": {
+        "description": "Rocher : Dalle de béton : Piquet en fer centre : Axe et sommet - Point vu en place en 1950",
+        "ele": "2561.39",
+        "man_made": "survey_point",
+        "name": "Grand Galbert",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3821203 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3821203",
+        "wikidata": "Q3113600"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141354,
+      "lat": 44.908152,
+      "lon": 5.7211621,
+      "tags": {
+        "alt_name": "Le Sénépy",
+        "alt_name_2": "Le Senépy",
+        "description": "Borne en granit gravée IGN - Point vu en place en 1983",
+        "ele": "1769",
+        "man_made": "survey_point",
+        "name": "Le Sénépi",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3822401 - A",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3822401",
+        "wikidata": "Q7666046"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141363,
+      "lat": 45.1374231,
+      "lon": 5.4933604,
+      "tags": {
+        "description": "Borne en granit gravée IGN (1951) - Point vu en place en 1953",
+        "ele": "1628.3",
+        "man_made": "survey_point",
+        "name": "Roche de Méaudre",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3822502 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3822502"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141465,
+      "lat": 45.1001458,
+      "lon": 5.7675604,
+      "tags": {
+        "description": "Borne SGA : Repère hémisphérique 1994 en laiton de 18 mm de diamètre - Point vu en place en 2006",
+        "ele": "733.16",
+        "man_made": "survey_point",
+        "name": "Bellevue",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3825201 - B",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3825201"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141533,
+      "lat": 44.9294156,
+      "lon": 5.7448314,
+      "tags": {
+        "description": "Rocher : Rivet en fer scellé - Point vu en place en 1983",
+        "ele": "1560.01",
+        "man_made": "survey_point",
+        "name": "Pierre Plantée",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3826501 - C",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3826501"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141582,
+      "lat": 44.9333154,
+      "lon": 5.9133211,
+      "tags": {
+        "description": "Borne en granit gravée IGN - Point vu en place en 1983",
+        "ele": "2606.7",
+        "man_made": "survey_point",
+        "name": "Le Coiro",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3828302 - A",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3828302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670141665,
+      "lat": 44.9393038,
+      "lon": 6.0425967,
+      "tags": {
+        "description": "Rocher : Spit : Boulon - Point vu en place en 1983",
+        "ele": "2901.43",
+        "man_made": "survey_point",
+        "name": "Signal du Lauvitel",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3830204 - B",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3830204"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142089,
+      "lat": 44.9644543,
+      "lon": 6.2229648,
+      "tags": {
+        "description": "Borne en granit gravée IGN - Point vu en place en 1983",
+        "ele": "3595.3",
+        "man_made": "survey_point",
+        "name": "Aiguille du Plat de la Selle",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3837508 - A",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3837508"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142229,
+      "lat": 44.9617244,
+      "lon": 5.843892,
+      "tags": {
+        "description": "Cairn : Croix en fer scellée : Axe - Point vu en place en 1983",
+        "ele": "2214.1",
+        "man_made": "survey_point",
+        "name": "Piquet de Nantes",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3839602 - D",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3839602"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142246,
+      "lat": 45.0458475,
+      "lon": 5.7416981,
+      "tags": {
+        "alt_name": "Le Connex",
+        "description": "Borne SGA : Face supérieure : Croix gravée - Point vu en place en 1956",
+        "ele": "1360.12",
+        "man_made": "survey_point",
+        "name": "Fau Cuchet",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3840201 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3840201"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142250,
+      "lat": 45.0141084,
+      "lon": 5.740524,
+      "tags": {
+        "description": "Tube en fonte de 0.10 m de diamètre : Axe et sommet - Point vu en place en 1956",
+        "ele": "1632.66",
+        "man_made": "survey_point",
+        "name": "Beauregard",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3840203 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3840203"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142546,
+      "lat": 45.252951,
+      "lon": 5.7578016,
+      "tags": {
+        "description": "Borne en granit gravée IGN (1949) - Point vu en place en 1950",
+        "ele": "1406.55",
+        "man_made": "survey_point",
+        "name": "L'Écoutoux",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "38471A - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "tourism": "viewpoint",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=38471A",
+        "wikidata": "Q3578842",
+        "wikipedia": "fr:Écoutoux"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142715,
+      "lat": 45.218456,
+      "lon": 5.7334702,
+      "tags": {
+        "description": "Borne en granit gravée IGN (1949) - Point vu en place en 1950",
+        "ele": "1046.32",
+        "man_made": "survey_point",
+        "name": "Mont Rachais",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3851601 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3851601",
+        "wikipedia": "fr:Mont Rachais"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142788,
+      "lat": 45.1836334,
+      "lon": 6.0681308,
+      "tags": {
+        "description": "Rocher : Repère en bronze scellé - Point vu en place en 1950",
+        "ele": "2622.35",
+        "man_made": "survey_point",
+        "name": "Le Rissiou",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3852708 - B",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3852708"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142790,
+      "lat": 45.1838321,
+      "lon": 6.1130875,
+      "tags": {
+        "description": "Rocher : Dalle en béton : Piquet en fer centre : Axe et sommet - Point vu en place en 1950",
+        "ele": "2395.33",
+        "man_made": "survey_point",
+        "name": "Côte Belle",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3852710 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3852710"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142861,
+      "lat": 45.0250683,
+      "lon": 5.5889739,
+      "tags": {
+        "description": "Rocher : Repère bronze centre sous borne - Point vu en place en 1956",
+        "ele": "2109.44",
+        "man_made": "survey_point",
+        "name": "Mont Gerbier",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3854808 - 2",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3854808"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670142867,
+      "lat": 45.0882178,
+      "lon": 6.0470984,
+      "tags": {
+        "description": "Borne en granit gravée IGN (1949) - Point vu en place en 1972",
+        "ele": "1972.65",
+        "man_made": "survey_point",
+        "name": "Signal de Villard",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "3855001 - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3855001"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670537438,
+      "lat": 45.3172025,
+      "lon": 6.2108925,
+      "tags": {
+        "description": "Borne IGN - Point vu en place en 1987",
+        "ele": "2427.56",
+        "man_made": "survey_point",
+        "name": "Le Grand Jarnalet",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "7323018 - A",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670537930,
+      "lat": 45.455229,
+      "lon": 5.835708,
+      "tags": {
+        "alt_name": "Pointe de la Cochette",
+        "description": "Calvaire : Centre de la croix - Point vu en place en 1950",
+        "ele": "1620.5",
+        "man_made": "survey_point",
+        "name": "Croix de la Cochette",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "73246B - 1",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "summit:cross": "yes",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73246B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670538584,
+      "lat": 45.1618782,
+      "lon": 6.1753081,
+      "tags": {
+        "description": "Rivet en fer scellé dans le roc - Point vu en place en 1972",
+        "ele": "2957.59",
+        "man_made": "survey_point",
+        "name": "Mont Péaiaux",
+        "natural": "peak",
+        "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+        "ref": "7328010 - B",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "url": "http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7328010"
+      }
+    },
+    {
+      "type": "node",
+      "id": 686543788,
+      "lat": 44.9909018,
+      "lon": 5.8455707,
+      "tags": {
+        "name": "Le Pérollier 2183 m",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 687005186,
+      "lat": 44.9842413,
+      "lon": 5.8558068,
+      "tags": {
+        "name": "L'Oreille du Loup 2291 m",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 712708158,
+      "lat": 45.0984636,
+      "lon": 5.7737901,
+      "tags": {
+        "ele": "737",
+        "name": "Pravena",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732374784,
+      "lat": 44.7994891,
+      "lon": 6.1579676,
+      "tags": {
+        "ele": "2652",
+        "name": "Aiguille du Midi des Andrieux",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732530649,
+      "lat": 44.859056,
+      "lon": 6.1967866,
+      "tags": {
+        "ele": "3564",
+        "name": "L'Olan",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "wikidata": "Q2206161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 778649309,
+      "lat": 45.5170317,
+      "lon": 6.048888,
+      "tags": {
+        "name": "Rocher du Guet 1209 m",
+        "natural": "peak",
+        "source": "gps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833872366,
+      "lat": 45.5299426,
+      "lon": 5.9416592,
+      "tags": {
+        "ele": "612",
+        "name": "Mont Charvais",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 838320076,
+      "lat": 45.1630683,
+      "lon": 5.9268136,
+      "tags": {
+        "ele": "2394",
+        "name": "Grand Colon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 881236418,
+      "lat": 45.2444914,
+      "lon": 6.1331945,
+      "tags": {
+        "ele": "2913",
+        "name": "Aiguille Dulong de Rosnay",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 881236431,
+      "lat": 45.244936,
+      "lon": 6.1295632,
+      "tags": {
+        "ele": "2904",
+        "name": "Aiguille de Marcieu",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 881236433,
+      "lat": 45.2445312,
+      "lon": 6.1322281,
+      "tags": {
+        "ele": "2905",
+        "name": "Aiguille de Baroz",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 881236437,
+      "lat": 45.2447439,
+      "lon": 6.1308062,
+      "tags": {
+        "ele": "2915",
+        "name": "Aiguille Michel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 881236442,
+      "lat": 45.2444627,
+      "lon": 6.1327158,
+      "tags": {
+        "ele": "2902",
+        "name": "Aiguille Repiton-Préneuf",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 939220266,
+      "lat": 45.1475075,
+      "lon": 5.6394189,
+      "tags": {
+        "ele": "1901",
+        "name": "Moucherotte",
+        "natural": "peak",
+        "tourism": "viewpoint",
+        "wikidata": "Q3325416"
+      }
+    },
+    {
+      "type": "node",
+      "id": 954805015,
+      "lat": 45.0407202,
+      "lon": 5.3938922,
+      "tags": {
+        "name": "La Petite Cournouse",
+        "natural": "peak",
+        "source": "© CNES 2004-2007 / Spot Image"
+      }
+    },
+    {
+      "type": "node",
+      "id": 986824130,
+      "lat": 44.8935622,
+      "lon": 5.5929304,
+      "tags": {
+        "ele": "1808",
+        "name": "Rocher du Baconnet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1000814859,
+      "lat": 44.7372062,
+      "lon": 5.4701681,
+      "tags": {
+        "ele": "2041",
+        "name": "Le Dôme ou Pié Ferré",
+        "natural": "peak",
+        "wikidata": "Q3389617"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1024658556,
+      "lat": 45.2356038,
+      "lon": 5.544686,
+      "tags": {
+        "ele": "1554",
+        "name": "Bec de l'Orient",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070910217,
+      "lat": 44.9691969,
+      "lon": 5.9968102,
+      "tags": {
+        "ele": "2527",
+        "name": "Sommet des Clottous",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070910790,
+      "lat": 44.9801121,
+      "lon": 6.0312809,
+      "tags": {
+        "ele": "3022",
+        "name": "Le Rochail",
+        "natural": "peak",
+        "wikidata": "Q1342669"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1071045948,
+      "lat": 44.9954071,
+      "lon": 6.0157787,
+      "tags": {
+        "ele": "2870",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1071047469,
+      "lat": 45.0000218,
+      "lon": 6.0109366,
+      "tags": {
+        "alt_name": "Grand Reynaud",
+        "ele": "2776",
+        "name": "Grand Renaud",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1071047482,
+      "lat": 45.016251,
+      "lon": 5.9951081,
+      "tags": {
+        "ele": "2396",
+        "name": "Tête des Filons",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1082605652,
+      "lat": 44.9361978,
+      "lon": 6.0752448,
+      "tags": {
+        "ele": "3169",
+        "name": "Pic du Clapier du Peyron",
+        "natural": "peak",
+        "note": "Déplacé pour coller avec les courbes de niveau OpenCycleMap (issues SRTM)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1088194100,
+      "lat": 45.1631384,
+      "lon": 5.639887,
+      "tags": {
+        "ele": "1456",
+        "name": "Les 3 Pucelles",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1116274075,
+      "lat": 44.8570173,
+      "lon": 5.9777744,
+      "tags": {
+        "man_made": "cross",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1187964425,
+      "lat": 45.2417564,
+      "lon": 6.0419066,
+      "tags": {
+        "ele": "2478",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1201669292,
+      "lat": 45.5061022,
+      "lon": 5.8665596,
+      "tags": {
+        "ele": "1420",
+        "name": "Rocher du Corbeley",
+        "natural": "peak",
+        "source": "gps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1217612779,
+      "lat": 45.099859,
+      "lon": 6.0590757,
+      "tags": {
+        "alt_name": "Signal d'Huez",
+        "ele": "2114",
+        "loc_name": "Le Signal",
+        "name": "La Grande Sure",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1219016134,
+      "lat": 45.1289814,
+      "lon": 6.1070003,
+      "tags": {
+        "ele": "2810",
+        "name": "Dôme des Petites Rousses",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1219299477,
+      "lat": 45.2418114,
+      "lon": 6.0637646,
+      "tags": {
+        "ele": "2732",
+        "name": "Pic des Cabottes",
+        "natural": "peak",
+        "source": "GPS average"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1219343623,
+      "lat": 45.2492362,
+      "lon": 6.0496849,
+      "tags": {
+        "ele": "2203",
+        "name": "Rochers de l'Évèque",
+        "natural": "peak",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1251018329,
+      "lat": 45.0052913,
+      "lon": 5.8262932,
+      "tags": {
+        "ele": "2141",
+        "name": "Le Grand Serre",
+        "natural": "peak",
+        "source": "GPS",
+        "wikidata": "Q3114571"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1269575365,
+      "lat": 45.3401598,
+      "lon": 5.7192958,
+      "tags": {
+        "name": "Mollard de la Grande Vache",
+        "natural": "peak",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1343198489,
+      "lat": 45.0861508,
+      "lon": 6.1172417,
+      "tags": {
+        "ele": "2316",
+        "name": "Tête du Serre",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1343314880,
+      "lat": 45.1304472,
+      "lon": 6.0584545,
+      "tags": {
+        "ele": "1320",
+        "name": "La Poipe",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1363272575,
+      "lat": 45.4519968,
+      "lon": 6.2128588,
+      "tags": {
+        "ele": "1992",
+        "name": "Grand Chat",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1390589507,
+      "lat": 45.0525077,
+      "lon": 5.6407759,
+      "tags": {
+        "ele": "1270",
+        "name": "Le Pieu",
+        "natural": "peak",
+        "note": "Petite croix sur un cairn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1390720961,
+      "lat": 45.0234837,
+      "lon": 5.6775437,
+      "tags": {
+        "ele": "926",
+        "name": "Le Grand Brion",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1390732221,
+      "lat": 45.0536832,
+      "lon": 5.691995,
+      "tags": {
+        "ele": "537",
+        "name": "Le Petit Brion",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1392648882,
+      "lat": 45.3251067,
+      "lon": 5.7641689,
+      "tags": {
+        "ele": "1867",
+        "name": "Charmant Som",
+        "natural": "peak",
+        "wikidata": "Q2961098",
+        "wikipedia": "fr:Charmant Som"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1396705728,
+      "lat": 45.0556825,
+      "lon": 5.6438281,
+      "tags": {
+        "ele": "1017",
+        "name": "Rochers de brise Tourte",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1400995206,
+      "lat": 45.2127486,
+      "lon": 6.1889739,
+      "tags": {
+        "ele": "2537",
+        "name": "Le Barrioz",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1416608093,
+      "lat": 45.4233975,
+      "lon": 6.2182727,
+      "tags": {
+        "ele": "2341",
+        "name": "Pointe de Rognier",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1417116954,
+      "lat": 45.2211651,
+      "lon": 5.6229828,
+      "tags": {
+        "name": "La Dent du Loup",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1419490886,
+      "lat": 45.3469622,
+      "lon": 5.873181,
+      "tags": {
+        "ele": "2045",
+        "name": "Lance sud de Malissard",
+        "natural": "peak",
+        "source": "JVT Relevé 110710"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1445505976,
+      "lat": 44.8697393,
+      "lon": 5.5267039,
+      "tags": {
+        "ele": "2341",
+        "name": "Grand Veymont",
+        "natural": "peak",
+        "note": "pas de trace de borne géodésique au sommet qui serait qqes m en contrebas d'après le GPS.",
+        "source": "GPS",
+        "wikidata": "Q2105265"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1489084817,
+      "lat": 45.3300111,
+      "lon": 6.059409,
+      "tags": {
+        "ele": "1726",
+        "name": "Crêt du Poulet",
+        "natural": "peak",
+        "wikidata": "Q3006355",
+        "wikipedia": "fr:Crêt du Poulet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1510075046,
+      "lat": 45.2439251,
+      "lon": 5.5843788,
+      "tags": {
+        "ele": "1623",
+        "name": "La Buffe",
+        "natural": "peak",
+        "tourism": "viewpoint",
+        "wikidata": "Q19544006"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1535655430,
+      "lat": 45.3487343,
+      "lon": 5.8509429,
+      "tags": {
+        "ele": "1791",
+        "name": "La Scia",
+        "natural": "peak",
+        "wikidata": "Q16652713"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1541334134,
+      "lat": 45.5513552,
+      "lon": 6.0587116,
+      "tags": {
+        "ele": "1610",
+        "fixme": "position approximative",
+        "name": "Pic de la Sauge",
+        "natural": "peak",
+        "note": "1612m d'après la croix au sommet",
+        "summit:cross": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1600217665,
+      "lat": 45.3077301,
+      "lon": 5.748938,
+      "tags": {
+        "ele": "1708",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1643067840,
+      "lat": 44.8160806,
+      "lon": 6.0564032,
+      "tags": {
+        "ele": "2775",
+        "name": "Grun de Saint-Maurice",
+        "natural": "peak",
+        "wikidata": "Q16640349",
+        "wikipedia": "fr:Grun de Saint-Maurice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1643084396,
+      "lat": 44.764485,
+      "lon": 6.0940945,
+      "tags": {
+        "ele": "2747.7",
+        "name": "Le Chaperon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1643091035,
+      "lat": 44.7598686,
+      "lon": 6.0770142,
+      "tags": {
+        "ele": "2777",
+        "name": "Le Banc du Peyron",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1643920862,
+      "lat": 44.8024146,
+      "lon": 6.0591372,
+      "tags": {
+        "ele": "2210.7",
+        "name": "Bec de l'Aigle",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1643927491,
+      "lat": 44.7710138,
+      "lon": 6.1031289,
+      "tags": {
+        "ele": "2683",
+        "name": "Pic de l'Homme",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1643932508,
+      "lat": 44.7724914,
+      "lon": 6.1119266,
+      "tags": {
+        "ele": "2559",
+        "name": "Pic des Hts Moulins",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644025454,
+      "lat": 44.772623,
+      "lon": 6.1320804,
+      "tags": {
+        "ele": "2668",
+        "name": "Le Pevou",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644038666,
+      "lat": 44.773933,
+      "lon": 6.1416291,
+      "tags": {
+        "ele": "2674",
+        "name": "Cîme des Moutières",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644044929,
+      "lat": 44.7690127,
+      "lon": 6.1658977,
+      "tags": {
+        "ele": "2826",
+        "name": "Pic de Pian",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644049229,
+      "lat": 44.7808939,
+      "lon": 6.1768411,
+      "tags": {
+        "ele": "2561.1",
+        "name": "Pic de Disdier",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644052239,
+      "lat": 44.7903362,
+      "lon": 6.1748027,
+      "tags": {
+        "ele": "2618.5",
+        "name": "Pic de Pétarel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644107213,
+      "lat": 44.7940791,
+      "lon": 6.0596793,
+      "tags": {
+        "ele": "1787.9",
+        "name": "Sommet de Pourtalas",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644112206,
+      "lat": 44.8250127,
+      "lon": 6.0690778,
+      "tags": {
+        "ele": "2621",
+        "name": "La Mollas",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644113602,
+      "lat": 44.8040978,
+      "lon": 6.1739414,
+      "tags": {
+        "ele": "2283",
+        "name": "Pic des Ours",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644123290,
+      "lat": 44.7407711,
+      "lon": 6.1951877,
+      "tags": {
+        "ele": "3116.6",
+        "name": "Pic de Mal Cros",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1645245040,
+      "lat": 44.77331,
+      "lon": 5.9571228,
+      "tags": {
+        "ele": "1823",
+        "name": "Pic de Chauvet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1645245264,
+      "lat": 44.7679478,
+      "lon": 5.9526167,
+      "tags": {
+        "ele": "2223",
+        "name": "Le Faraut",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1645248124,
+      "lat": 44.7596598,
+      "lon": 5.9513292,
+      "tags": {
+        "ele": "2377",
+        "name": "Pic Pierroux",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1645464465,
+      "lat": 44.8260476,
+      "lon": 6.0079424,
+      "tags": {
+        "ele": "2121",
+        "name": "Le Laton ou Pic Gazonné",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1648953436,
+      "lat": 44.9230813,
+      "lon": 5.9122329,
+      "tags": {
+        "ele": "2154",
+        "name": "Sommet de la Cavale",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1685056116,
+      "lat": 45.2352344,
+      "lon": 5.5973979,
+      "tags": {
+        "ele": "1643",
+        "name": "La Sure",
+        "natural": "peak",
+        "source": "GPS",
+        "wikidata": "Q21027470"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1689391357,
+      "lat": 45.2466513,
+      "lon": 5.7866049,
+      "tags": {
+        "name": "L'Aiguille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1699746298,
+      "lat": 45.3034135,
+      "lon": 6.1270642,
+      "tags": {
+        "ele": "2566",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1725402635,
+      "lat": 45.2415917,
+      "lon": 6.0329416,
+      "tags": {
+        "ele": "2478",
+        "information": "guidepost",
+        "name": "Cime de la Jasse",
+        "natural": "peak",
+        "source": "GPS",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1746908724,
+      "lat": 45.020137,
+      "lon": 6.1419647,
+      "tags": {
+        "ele": "2181",
+        "name": "Grande Aiguille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1747064858,
+      "lat": 45.0229286,
+      "lon": 6.1370929,
+      "tags": {
+        "ele": "1993",
+        "name": "Petite Aiguille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1751040053,
+      "lat": 45.2636304,
+      "lon": 6.161537,
+      "tags": {
+        "ele": "2733",
+        "name": "Cime du Sambuis",
+        "natural": "peak",
+        "source": "GPS y compris pour l'altitude"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1756229984,
+      "lat": 45.3113168,
+      "lon": 5.8354154,
+      "tags": {
+        "alt_name": "Dôme d'Arguille",
+        "ele": "1760",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Pravouta",
+        "natural": "peak",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1767322088,
+      "lat": 45.2395704,
+      "lon": 6.215026,
+      "tags": {
+        "ele": "2432",
+        "name": "Pointe de L'Ouillon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768140623,
+      "lat": 44.9947217,
+      "lon": 6.156388,
+      "tags": {
+        "ele": "2748",
+        "name": "Montagne de Rachas",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768150379,
+      "lat": 45.0088927,
+      "lon": 6.1052811,
+      "tags": {
+        "ele": "2106",
+        "name": "Le Mais",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768363131,
+      "lat": 45.0040798,
+      "lon": 6.1677327,
+      "tags": {
+        "ele": "2649",
+        "name": "La Belle Etoile",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768386258,
+      "lat": 45.0003352,
+      "lon": 6.2003849,
+      "tags": {
+        "ele": "3178",
+        "name": "Cairn",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768408512,
+      "lat": 44.9967846,
+      "lon": 6.2228511,
+      "tags": {
+        "ele": "3417",
+        "name": "Dôme de Puy Salié",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768499196,
+      "lat": 44.9931201,
+      "lon": 6.1291586,
+      "tags": {
+        "ele": "1842",
+        "name": "Les Perrons",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768503499,
+      "lat": 45.037595,
+      "lon": 6.0983454,
+      "tags": {
+        "ele": "1175",
+        "name": "Le Moutet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768563103,
+      "lat": 45.154432,
+      "lon": 6.165648,
+      "tags": {
+        "ele": "3217",
+        "name": "Cime du Grand Sauvage",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768570161,
+      "lat": 45.0144065,
+      "lon": 6.1097318,
+      "tags": {
+        "ele": "2076",
+        "name": "Crête du Fioc",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768574859,
+      "lat": 45.0240229,
+      "lon": 6.1728173,
+      "tags": {
+        "ele": "2451",
+        "name": "La Sure",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768640522,
+      "lat": 44.9791072,
+      "lon": 6.1790885,
+      "tags": {
+        "ele": "2710",
+        "name": "Aiguilles Rouges de la Toura",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768645254,
+      "lat": 45.0308574,
+      "lon": 6.1325039,
+      "tags": {
+        "ele": "1591",
+        "name": "La Tallias",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1768659193,
+      "lat": 45.0708479,
+      "lon": 6.1144794,
+      "tags": {
+        "ele": "2164",
+        "name": "Grandes Buffes",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1773707559,
+      "lat": 45.3131166,
+      "lon": 5.6964734,
+      "tags": {
+        "ele": "1838",
+        "name": "Rocher de Lorzier",
+        "natural": "peak",
+        "tourism": "viewpoint",
+        "wikidata": "Q24929376",
+        "wikipedia": "fr:Rocher de Lorzier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1786381625,
+      "lat": 44.9658794,
+      "lon": 6.1354555,
+      "tags": {
+        "ele": "2328",
+        "name": "La Coche",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1786404236,
+      "lat": 45.1177693,
+      "lon": 6.1358836,
+      "tags": {
+        "ele": "3128",
+        "name": "Sommet Nord de Sarenne",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1793526666,
+      "lat": 45.2966422,
+      "lon": 5.8284109,
+      "tags": {
+        "ele": "1738",
+        "name": "Bec Charvet",
+        "natural": "peak",
+        "wikidata": "Q2419534"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1827457872,
+      "lat": 45.2981009,
+      "lon": 5.6975877,
+      "tags": {
+        "ele": "1845",
+        "name": "Rochers de Chalves",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1860876356,
+      "lat": 44.8644493,
+      "lon": 5.9701738,
+      "tags": {
+        "information": "map",
+        "map_type": "topo",
+        "name": "Le Gargas 2208 m",
+        "natural": "peak",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1914863807,
+      "lat": 44.9699238,
+      "lon": 6.0209948,
+      "tags": {
+        "ele": "2800",
+        "name": "Le Neyrard",
+        "natural": "peak",
+        "source": "gps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923495140,
+      "lat": 45.2855294,
+      "lon": 6.1070507,
+      "tags": {
+        "ele": "2345",
+        "name": "Grande Roche de Thiervoz",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1930165702,
+      "lat": 45.1622972,
+      "lon": 5.9366271,
+      "tags": {
+        "ele": "2402",
+        "name": "Le Galeteau",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1930165703,
+      "lat": 45.1694452,
+      "lon": 5.9893155,
+      "tags": {
+        "ele": "2945",
+        "name": "Pic Central de Belledonne",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1947966778,
+      "lat": 45.2039883,
+      "lon": 5.7242332,
+      "tags": {
+        "ele": "635",
+        "name": "Mont Jalla",
+        "natural": "peak",
+        "wikidata": "Q3321880",
+        "wikipedia": "fr:Mont Jalla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2058514210,
+      "lat": 45.1280437,
+      "lon": 5.4920628,
+      "tags": {
+        "ele": "1583",
+        "natural": "peak",
+        "note": "altitude GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2071676791,
+      "lat": 45.4227903,
+      "lon": 5.7973098,
+      "tags": {
+        "ele": "1160",
+        "name": "Pointe du Frou",
+        "natural": "peak",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2124565875,
+      "lat": 44.7436584,
+      "lon": 5.8296818,
+      "tags": {
+        "ele": "2626",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2130925486,
+      "lat": 45.127541,
+      "lon": 5.930459,
+      "tags": {
+        "ele": "2439",
+        "name": "Petit Van",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162421234,
+      "lat": 45.0936534,
+      "lon": 5.5030425,
+      "tags": {
+        "ele": "1556",
+        "name": "Gros Martel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162630369,
+      "lat": 45.0913563,
+      "lon": 5.5374437,
+      "tags": {
+        "ele": "1361",
+        "name": "Sommet de Meillarot",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2184405165,
+      "lat": 45.3567539,
+      "lon": 5.7245938,
+      "tags": {
+        "name": "Crête de la Charmille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2184405168,
+      "lat": 45.3468747,
+      "lon": 5.7243272,
+      "tags": {
+        "ele": "1735",
+        "name": "La Petite Vache",
+        "natural": "peak",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2262902188,
+      "lat": 44.7518639,
+      "lon": 5.9169695,
+      "tags": {
+        "ele": "2086",
+        "fixme": "position exacte du sommet (par rapport aux repères géodésiques) à déterminer sur le terrain",
+        "name": "Le Gicon",
+        "natural": "peak",
+        "source": "repères géodésiques"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2262902194,
+      "lat": 44.760198,
+      "lon": 5.950239,
+      "tags": {
+        "ele": "2385",
+        "fixme": "le sommet est dédoublé. Il faudrait sans neige lequel est le plus haut et comment ils sont par rapport aux repères géodésiques",
+        "natural": "peak",
+        "source": "GPS y compris pour l'altitude"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2262935965,
+      "lat": 44.7599377,
+      "lon": 5.8270571,
+      "tags": {
+        "ele": "2517",
+        "fixme": "mesure GPS en hiver avec de la neige, localisation du sommet incertaine",
+        "name": "Le Nid",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2262935973,
+      "lat": 44.7570731,
+      "lon": 5.8409484,
+      "tags": {
+        "ele": "2593",
+        "fixme": "vérifier la localisation du sommet sans neige",
+        "name": "Tête de Lapras",
+        "natural": "peak",
+        "note": "3 mesures GPS sur un petit kairn",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2311338067,
+      "lat": 45.3166807,
+      "lon": 5.6399378,
+      "tags": {
+        "ele": "932",
+        "name": "Roche Brune",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2311742276,
+      "lat": 45.3171732,
+      "lon": 5.8372042,
+      "tags": {
+        "ele": "1768",
+        "name": "Roc d'Arguille",
+        "natural": "peak",
+        "wikidata": "Q3437335"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2311780641,
+      "lat": 45.0006318,
+      "lon": 5.5760021,
+      "tags": {
+        "ele": "2194",
+        "name": "La Grande Sœur - Agathe",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2313619693,
+      "lat": 45.2939755,
+      "lon": 5.660681,
+      "tags": {
+        "ele": "1089",
+        "name": "Aiguille de Chalais",
+        "natural": "peak",
+        "wikidata": "Q2827874",
+        "wikipedia": "fr:Aiguille de Chalais"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2317409472,
+      "lat": 45.2874285,
+      "lon": 5.5956578,
+      "tags": {
+        "ele": "988",
+        "name": "Dent de Moirans",
+        "natural": "peak",
+        "wikidata": "Q3023306"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2317411200,
+      "lat": 45.2980348,
+      "lon": 5.6010462,
+      "tags": {
+        "ele": "622",
+        "name": "Bec de l'Echaillon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2329556881,
+      "lat": 45.2222935,
+      "lon": 6.0990462,
+      "tags": {
+        "ele": "2725",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2329738980,
+      "lat": 45.214517,
+      "lon": 6.0822904,
+      "tags": {
+        "ele": "2560",
+        "name": "Pic Bunard",
+        "natural": "peak",
+        "source": "d'après repères géodésiques"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2331507141,
+      "lat": 45.0287908,
+      "lon": 5.6178633,
+      "tags": {
+        "ele": "1411",
+        "name": "Rocher de l'Épiremmont",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2339206341,
+      "lat": 45.3779708,
+      "lon": 5.6654836,
+      "tags": {
+        "ele": "706",
+        "name": "Rocher de la Garde",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2342141541,
+      "lat": 45.3661414,
+      "lon": 5.9332678,
+      "tags": {
+        "ele": "875",
+        "name": "Pierre Aiguille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2348104402,
+      "lat": 44.90489,
+      "lon": 6.0004092,
+      "tags": {
+        "ele": "2576",
+        "name": "l'Arcanier",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2348106801,
+      "lat": 44.9167852,
+      "lon": 6.0106606,
+      "tags": {
+        "ele": "2585",
+        "name": "Pic Vert",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2374551786,
+      "lat": 44.7581902,
+      "lon": 5.437919,
+      "tags": {
+        "name": "Ménil",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2385708356,
+      "lat": 44.8640241,
+      "lon": 5.5307609,
+      "tags": {
+        "ele": "2120",
+        "name": "Petit Veymont",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2420598491,
+      "lat": 45.3412365,
+      "lon": 5.8798899,
+      "tags": {
+        "ele": "1975",
+        "name": "Dôme de Bellefont",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2441614661,
+      "lat": 45.153665,
+      "lon": 5.8046118,
+      "tags": {
+        "ele": "937",
+        "name": "Les Quatre Seigneurs",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2441625524,
+      "lat": 45.1340886,
+      "lon": 5.7587491,
+      "tags": {
+        "ele": "544",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2475339665,
+      "lat": 45.2671104,
+      "lon": 5.7205577,
+      "tags": {
+        "ele": "1143",
+        "name": "Aiguille de Quaix",
+        "natural": "peak",
+        "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+        "wikidata": "Q2827878"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2494875166,
+      "lat": 45.4089136,
+      "lon": 6.2077373,
+      "tags": {
+        "ele": "2457",
+        "name": "Le Fort",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2505346497,
+      "lat": 44.7435813,
+      "lon": 5.8291262,
+      "tags": {
+        "ele": "2628",
+        "name": "Tete de l'Aupet",
+        "natural": "peak",
+        "source": "survey + GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2505347164,
+      "lat": 44.7343904,
+      "lon": 5.8377736,
+      "tags": {
+        "ele": "2335",
+        "name": "Tete d'Oriol",
+        "natural": "peak",
+        "source": "survey + GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509607084,
+      "lat": 45.1716404,
+      "lon": 5.9593594,
+      "tags": {
+        "ele": "2790",
+        "name": "Grande Lance de Domène",
+        "natural": "peak",
+        "source": "GPS+GLONASS",
+        "wikidata": "Q3114955",
+        "wikipedia": "fr:Grande Lance de Domène"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527185808,
+      "lat": 45.4955066,
+      "lon": 5.8784692,
+      "tags": {
+        "alt_name": "Mont Lentille",
+        "ele": "1450",
+        "name": "Mont Pellat",
+        "natural": "peak",
+        "note": "Ma trace GPS concorde avec le cadastre, bing semble décallé",
+        "source:altitude": "gps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527270627,
+      "lat": 45.4964857,
+      "lon": 5.8813318,
+      "tags": {
+        "ele": "1440",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2560388327,
+      "lat": 45.2229843,
+      "lon": 6.1952863,
+      "tags": {
+        "name": "Petit Perron",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610963671,
+      "lat": 44.8438142,
+      "lon": 5.5100719,
+      "tags": {
+        "ele": "1949.73",
+        "name": "Roc Mazilier",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2615214600,
+      "lat": 44.8187588,
+      "lon": 5.4942366,
+      "tags": {
+        "ele": "1876",
+        "name": "Tourte-Barreaux",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2615214601,
+      "lat": 44.8359361,
+      "lon": 5.4985246,
+      "tags": {
+        "ele": "1885",
+        "name": "Tête de la Graille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2631300090,
+      "lat": 44.7562165,
+      "lon": 5.7806812,
+      "tags": {
+        "ele": "1436",
+        "name": "Ratier",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2641806800,
+      "lat": 45.292904,
+      "lon": 6.0410378,
+      "tags": {
+        "ele": "1837",
+        "hiking": "yes",
+        "information": "guidepost",
+        "name": "Cul de Pet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2677259673,
+      "lat": 44.8458207,
+      "lon": 5.3941935,
+      "tags": {
+        "ele": "1656",
+        "name": "But de Nève",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2677262507,
+      "lat": 44.8265098,
+      "lon": 5.4173891,
+      "tags": {
+        "ele": "1619",
+        "name": "But Sapiau",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2677270294,
+      "lat": 44.7637326,
+      "lon": 5.4925716,
+      "tags": {
+        "ele": "1799",
+        "name": "Tête du Petit Jardin",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2677272849,
+      "lat": 44.8003509,
+      "lon": 5.4584341,
+      "tags": {
+        "ele": "1827",
+        "name": "Rochers de Plautret",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2677289748,
+      "lat": 44.8901326,
+      "lon": 5.5249636,
+      "tags": {
+        "ele": "2108",
+        "name": "Sommet de Pierre Blanche",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2722825129,
+      "lat": 45.0688276,
+      "lon": 5.6055398,
+      "tags": {
+        "ele": "2038",
+        "name": "Rochers de l'Ours",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2744760624,
+      "lat": 45.3128771,
+      "lon": 6.1625082,
+      "tags": {
+        "ele": "2775",
+        "fixme": "position approximative",
+        "name": "Le Grand Morétan",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2744760630,
+      "lat": 45.3228575,
+      "lon": 6.1465426,
+      "tags": {
+        "ele": "2439",
+        "fixme": "position approximative",
+        "name": "Le Vay",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2790041769,
+      "lat": 44.9322014,
+      "lon": 5.5880811,
+      "tags": {
+        "ele": "1734",
+        "name": "Montagne de la Pale",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2790080733,
+      "lat": 44.9272558,
+      "lon": 5.5895022,
+      "tags": {
+        "ele": "1669",
+        "name": "Rocher du Cléton",
+        "natural": "peak",
+        "source": "gps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2796495769,
+      "lat": 45.0024886,
+      "lon": 6.0041476,
+      "tags": {
+        "fixme": "position à préciser au GPS (source Bing)",
+        "name": "Petit Renaud",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2850589450,
+      "lat": 45.3878195,
+      "lon": 5.8053398,
+      "tags": {
+        "ele": "1770",
+        "name": "Petit Som",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2883538169,
+      "lat": 45.2510406,
+      "lon": 5.6704897,
+      "tags": {
+        "name": "Le Cornillon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2940268163,
+      "lat": 45.3806715,
+      "lon": 5.9050036,
+      "tags": {
+        "ele": "1850",
+        "name": "Le Grand Manti",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2947678027,
+      "lat": 45.3959159,
+      "lon": 6.1360249,
+      "tags": {
+        "alt_name": "Tournetalon",
+        "ele": "1920",
+        "name": "Le Grand Collet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956262177,
+      "lat": 45.1258501,
+      "lon": 5.9025905,
+      "tags": {
+        "ele": "2253",
+        "name": "Croix de Chamrousse",
+        "natural": "peak",
+        "wikidata": "Q3003318"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956262178,
+      "lat": 45.1931277,
+      "lon": 5.9937155,
+      "tags": {
+        "ele": "2702",
+        "name": "Les Trois Officiers",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956262179,
+      "lat": 45.1940889,
+      "lon": 5.9935248,
+      "tags": {
+        "ele": "2675",
+        "name": "Pic de la Pierre",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956262180,
+      "lat": 45.1202094,
+      "lon": 5.9001637,
+      "tags": {
+        "ele": "2152",
+        "name": "Rocher de la Perche",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956262181,
+      "lat": 45.1978953,
+      "lon": 5.9945302,
+      "tags": {
+        "ele": "2601",
+        "name": "Sommet Colomb",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956262182,
+      "lat": 45.1548039,
+      "lon": 5.9635657,
+      "tags": {
+        "ele": "2727",
+        "name": "Tête Noire",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956909780,
+      "lat": 45.143743,
+      "lon": 5.9558929,
+      "tags": {
+        "ele": "2603",
+        "name": "Pic de Mirebel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956909781,
+      "lat": 45.1275592,
+      "lon": 5.9560325,
+      "tags": {
+        "ele": "2138",
+        "name": "Pic de la Fare",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2980741116,
+      "lat": 44.802619,
+      "lon": 5.823839,
+      "tags": {
+        "ele": "2037",
+        "name": "l'Aiguille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3000785494,
+      "lat": 45.2000793,
+      "lon": 5.9814898,
+      "tags": {
+        "name": "Petit Replomb",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3015070604,
+      "lat": 45.1711306,
+      "lon": 5.9527056,
+      "tags": {
+        "ele": "2692",
+        "name": "Pic du Loup",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3031603105,
+      "lat": 44.776256,
+      "lon": 5.5349659,
+      "tags": {
+        "alt_name": "Sommet du Ranconnet",
+        "name": "Sommet du Tisserand",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3031681078,
+      "lat": 44.801056,
+      "lon": 5.5173113,
+      "tags": {
+        "name": "Tête des Baumiens",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3031681079,
+      "lat": 44.7939784,
+      "lon": 5.5170992,
+      "tags": {
+        "ele": "1888.6",
+        "name": "Tête des Chanaux",
+        "natural": "peak",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014",
+        "source:name": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014",
+        "source:position": "©IGN 2010 dans le cadre de la cartographie réglementaire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3058729009,
+      "lat": 45.4077647,
+      "lon": 5.9033557,
+      "tags": {
+        "ele": "1737",
+        "fixme": "check/adjust position",
+        "name": "Roche de Fitta",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3082122109,
+      "lat": 45.4154264,
+      "lon": 5.5095351,
+      "tags": {
+        "ele": "773",
+        "name": "Mont Follet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3082122110,
+      "lat": 45.4137783,
+      "lon": 5.4790534,
+      "tags": {
+        "ele": "752",
+        "name": "Mont Levatel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3082122111,
+      "lat": 45.4129291,
+      "lon": 5.5040473,
+      "tags": {
+        "name": "plan du rey tour telecom",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3126794705,
+      "lat": 45.0626859,
+      "lon": 5.6007635,
+      "tags": {
+        "ele": "2049",
+        "name": "Roc Cornafion",
+        "natural": "peak",
+        "wikidata": "Q3437328"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3139258305,
+      "lat": 44.792837,
+      "lon": 5.611945,
+      "tags": {
+        "ele": "1586",
+        "name": "Platary",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3141425695,
+      "lat": 45.3340746,
+      "lon": 6.0195538,
+      "tags": {
+        "ele": "1285",
+        "name": "Sommet de Barley",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3141431181,
+      "lat": 45.3035745,
+      "lon": 6.0499667,
+      "tags": {
+        "ele": "1926",
+        "name": "Le Grand Rocher",
+        "natural": "peak",
+        "summit:cross": "yes",
+        "wikidata": "Q3114556"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3141457543,
+      "lat": 45.2570908,
+      "lon": 6.0304448,
+      "tags": {
+        "ele": "2124",
+        "name": "Dome des Oudis",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3141457544,
+      "lat": 45.236031,
+      "lon": 6.0231304,
+      "tags": {
+        "ele": "2430",
+        "name": "Dent de Bedina",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3375186902,
+      "lat": 44.7358733,
+      "lon": 6.1898156,
+      "tags": {
+        "ele": "3162.64",
+        "name": "Vieux Chaillol",
+        "natural": "peak",
+        "wikidata": "Q650955"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3385109992,
+      "lat": 45.2413038,
+      "lon": 5.7440104,
+      "tags": {
+        "ele": "1050",
+        "name": "Le Quichat",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3420274894,
+      "lat": 45.1112086,
+      "lon": 6.1115378,
+      "tags": {
+        "name": "Clocher de Mâcle",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3423871305,
+      "lat": 45.1246699,
+      "lon": 5.9065782,
+      "tags": {
+        "ele": "2249",
+        "information": "orientation_map",
+        "natural": "peak",
+        "source": "GPS+GLONASS",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3440968975,
+      "lat": 45.133657,
+      "lon": 5.9331863,
+      "tags": {
+        "ele": "2526",
+        "name": "Grand Sorbier",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3454605834,
+      "lat": 45.2912663,
+      "lon": 5.6576168,
+      "tags": {
+        "name": "Rocher de Bellevue",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3494536217,
+      "lat": 44.8865003,
+      "lon": 6.0670271,
+      "tags": {
+        "ele": "2752",
+        "name": "Pic de Valsenestre",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3515490546,
+      "lat": 44.766957,
+      "lon": 6.2157411,
+      "tags": {
+        "ele": "2675",
+        "name": "Tête Virante",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3641338266,
+      "lat": 44.8432773,
+      "lon": 6.1106727,
+      "tags": {
+        "ele": "2730",
+        "name": "Pic des Scies de Sainte-Anne",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3666867911,
+      "lat": 45.3691303,
+      "lon": 5.9042189,
+      "tags": {
+        "alt_name": "Tour percée",
+        "ele": "1790",
+        "name": "Tour Isabelle",
+        "natural": "peak",
+        "natural_1": "arch",
+        "note": "Arche naturelle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3736111959,
+      "lat": 45.4843627,
+      "lon": 5.9067694,
+      "tags": {
+        "ele": "1507",
+        "name": "Pointe de la Bornée",
+        "natural": "peak",
+        "source:ele": "gps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3740133172,
+      "lat": 45.0062123,
+      "lon": 5.5796972,
+      "tags": {
+        "ele": "2162",
+        "name": "La Petite Sœur - Sophie",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3752498777,
+      "lat": 44.9465983,
+      "lon": 6.0803462,
+      "tags": {
+        "ele": "3019",
+        "name": "Tête de la Muraillette",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3754350739,
+      "lat": 44.7841343,
+      "lon": 5.547745,
+      "tags": {
+        "ele": "1972",
+        "name": "La montagnette",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3781976134,
+      "lat": 45.2876743,
+      "lon": 5.7881684,
+      "tags": {
+        "ele": "2082",
+        "name": "Chamechaude",
+        "natural": "peak",
+        "summit:cross": "yes",
+        "wikidata": "Q2321630",
+        "wikipedia": "fr:Chamechaude"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3838667303,
+      "lat": 45.2401518,
+      "lon": 6.0585091,
+      "tags": {
+        "ele": "2714",
+        "name": "Pic de l'apparence",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3838671764,
+      "lat": 45.2534805,
+      "lon": 6.0710103,
+      "tags": {
+        "ele": "2342",
+        "name": "Roc de Pendet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3838671765,
+      "lat": 45.2221587,
+      "lon": 6.0671411,
+      "tags": {
+        "ele": "2323",
+        "name": "Tête de l'homme",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873299344,
+      "lat": 45.2340966,
+      "lon": 6.0984395,
+      "tags": {
+        "ele": "2835",
+        "name": "Le Toit",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873299345,
+      "lat": 45.2266769,
+      "lon": 6.0996292,
+      "tags": {
+        "ele": "2740",
+        "name": "Pic de l'Agnelin",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873299346,
+      "lat": 45.2475141,
+      "lon": 6.1089161,
+      "tags": {
+        "ele": "2912",
+        "name": "Rocher Badon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873299347,
+      "lat": 45.277616,
+      "lon": 6.1248097,
+      "tags": {
+        "ele": "2885",
+        "name": "Rocher d'Arguille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873299348,
+      "lat": 45.2691769,
+      "lon": 6.1349431,
+      "tags": {
+        "ele": "2891",
+        "name": "Bec d'Arguille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873299349,
+      "lat": 45.2806603,
+      "lon": 6.1310915,
+      "tags": {
+        "ele": "2887",
+        "name": "Pic de la Grande Valloire",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873299350,
+      "lat": 45.288326,
+      "lon": 6.1321536,
+      "tags": {
+        "ele": "2767",
+        "name": "Rocher Gris",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3913183378,
+      "lat": 45.2201275,
+      "lon": 6.0922533,
+      "tags": {
+        "ele": "2728",
+        "name": "Pic des Eustaches",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918665857,
+      "lat": 45.1872642,
+      "lon": 6.1605112,
+      "tags": {
+        "ele": "2879",
+        "name": "Aiguille de Laisse",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918674653,
+      "lat": 45.2167024,
+      "lon": 6.1914417,
+      "tags": {
+        "ele": "2521",
+        "name": "Le Grand Perron",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918678610,
+      "lat": 45.1817433,
+      "lon": 6.1613689,
+      "tags": {
+        "ele": "2997",
+        "name": "Aiguille Noire",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918683020,
+      "lat": 45.1796369,
+      "lon": 6.1590603,
+      "tags": {
+        "ele": "3041",
+        "name": "Dôme de la Cochette",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918705992,
+      "lat": 45.1682688,
+      "lon": 6.152335,
+      "tags": {
+        "ele": "3232",
+        "name": "Cimes de la Cochette",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918705993,
+      "lat": 45.1683172,
+      "lon": 6.1493824,
+      "tags": {
+        "ele": "3240",
+        "name": "Cimes de la Cochette",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918709493,
+      "lat": 45.1630459,
+      "lon": 6.1475507,
+      "tags": {
+        "ele": "3291",
+        "name": "Cimes de la Barbarate",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918714157,
+      "lat": 45.151095,
+      "lon": 6.158844,
+      "tags": {
+        "ele": "3163",
+        "name": "Cime du Petit Sauvage",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918754573,
+      "lat": 45.2201136,
+      "lon": 6.192696,
+      "tags": {
+        "ele": "2422",
+        "name": "Le Man",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3957148347,
+      "lat": 45.0873935,
+      "lon": 5.8377277,
+      "tags": {
+        "ele": "1545",
+        "name": "Pic de l'Oeilly",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3978316314,
+      "lat": 45.1610993,
+      "lon": 5.8692079,
+      "tags": {
+        "ele": "1140",
+        "name": "Montrond",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4016828091,
+      "lat": 45.128562,
+      "lon": 5.906746,
+      "tags": {
+        "ele": "2223",
+        "natural": "peak",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021137989,
+      "lat": 45.1527248,
+      "lon": 6.2158337,
+      "tags": {
+        "ele": "2470",
+        "name": "Montagne de la Lauze",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021169956,
+      "lat": 45.164622,
+      "lon": 6.1804405,
+      "tags": {
+        "ele": "2858",
+        "name": "Cime de la Valette",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021313124,
+      "lat": 45.3040511,
+      "lon": 6.1533855,
+      "tags": {
+        "ele": "2826",
+        "name": "Le Charmet de l'Aiguille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021398839,
+      "lat": 45.3111713,
+      "lon": 6.1537447,
+      "tags": {
+        "ele": "2692",
+        "name": "Pointe du Gleyzin",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021422158,
+      "lat": 45.3181547,
+      "lon": 6.1843386,
+      "tags": {
+        "ele": "2713",
+        "name": "Pointe de l'Aup su Pont",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021450700,
+      "lat": 45.3285851,
+      "lon": 6.1842042,
+      "tags": {
+        "ele": "2469",
+        "name": "Pic Sud du Merlet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021467990,
+      "lat": 45.3381629,
+      "lon": 6.1929478,
+      "tags": {
+        "ele": "2563",
+        "name": "Pic Nord du Merlet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021489157,
+      "lat": 45.345856,
+      "lon": 6.1911879,
+      "tags": {
+        "ele": "2739",
+        "name": "Pointe du Bacheux",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4080085538,
+      "lat": 45.1374,
+      "lon": 5.9348,
+      "tags": {
+        "ele": "2482",
+        "name": "Pointe de Vaudaine",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4080975072,
+      "lat": 45.1403908,
+      "lon": 5.9375867,
+      "tags": {
+        "ele": "2491",
+        "name": "Pointe de Jasse Bralard",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4171833659,
+      "lat": 44.8025934,
+      "lon": 5.539193,
+      "tags": {
+        "ele": "1951",
+        "name": "Tête Chevalière",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4172145189,
+      "lat": 45.039361,
+      "lon": 5.9242374,
+      "tags": {
+        "ele": "2857",
+        "name": "Le Taillefer",
+        "natural": "peak",
+        "wikipedia": "fr:Taillefer (sommet)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4223520909,
+      "lat": 45.5018763,
+      "lon": 5.8996955,
+      "tags": {
+        "ele": "1350",
+        "name": "Pointe de la Lentille",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4227027386,
+      "lat": 45.5084354,
+      "lon": 5.9188427,
+      "tags": {
+        "ele": "961",
+        "name": "Pointe de l'Essort",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230384864,
+      "lat": 45.4766194,
+      "lon": 5.7919444,
+      "tags": {
+        "ele": "1313",
+        "name": "Mont Beauvoir",
+        "natural": "peak",
+        "wikidata": "Q16089891"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230384866,
+      "lat": 45.5162828,
+      "lon": 5.8123453,
+      "tags": {
+        "ele": "1425",
+        "name": "Mont Grelle",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4274503741,
+      "lat": 44.8442114,
+      "lon": 5.5934412,
+      "tags": {
+        "ele": "1543",
+        "name": "Goutaroux",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4329707323,
+      "lat": 45.1549205,
+      "lon": 5.9960571,
+      "tags": {
+        "ele": "2777",
+        "name": "Le Grand Charnier",
+        "natural": "peak",
+        "wikidata": "Q3113554"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4330625420,
+      "lat": 45.14699,
+      "lon": 6.0082588,
+      "tags": {
+        "ele": "2483",
+        "name": "La Grande Roche",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332133616,
+      "lat": 45.0459599,
+      "lon": 6.0083561,
+      "tags": {
+        "ele": "1938",
+        "name": "Prégentil",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337060657,
+      "lat": 45.1689376,
+      "lon": 6.1549105,
+      "tags": {
+        "ele": "3238",
+        "name": "Cimes de la Cochette",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156065,
+      "lat": 45.2445258,
+      "lon": 6.1365777,
+      "tags": {
+        "ele": "2897",
+        "name": "Aiguille Saint-Phalle",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156066,
+      "lat": 45.245266,
+      "lon": 6.1380905,
+      "tags": {
+        "ele": "2885",
+        "name": "Aiguille d'Olle",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156067,
+      "lat": 45.2447901,
+      "lon": 6.1431652,
+      "tags": {
+        "ele": "2757",
+        "name": "Aiguille Joseph Gaillard",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156068,
+      "lat": 45.2475171,
+      "lon": 6.1452788,
+      "tags": {
+        "ele": "2747",
+        "name": "Aiguille de la Combe",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156069,
+      "lat": 45.2471092,
+      "lon": 6.1486262,
+      "tags": {
+        "ele": "2711",
+        "name": "Aiguille de Capdepon",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156070,
+      "lat": 45.2474823,
+      "lon": 6.1461353,
+      "tags": {
+        "ele": "2711",
+        "name": "Pointe Elisabeteh",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156071,
+      "lat": 45.2467088,
+      "lon": 6.1564583,
+      "tags": {
+        "ele": "2531",
+        "name": "tête E des Cos",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156072,
+      "lat": 45.246875,
+      "lon": 6.1535132,
+      "tags": {
+        "ele": "2581",
+        "name": "Tête centrale des Cos",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4337156073,
+      "lat": 45.2471016,
+      "lon": 6.1507023,
+      "tags": {
+        "ele": "2582",
+        "name": "Tête W des Cos",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4338379667,
+      "lat": 44.7779195,
+      "lon": 5.5819999,
+      "tags": {
+        "ele": "1691",
+        "name": "Tête de Praorzel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4360518883,
+      "lat": 44.7955491,
+      "lon": 5.8841016,
+      "tags": {
+        "ele": "1597",
+        "name": "Jenabran",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4360545126,
+      "lat": 44.7783077,
+      "lon": 5.88084,
+      "tags": {
+        "ele": "1769",
+        "name": "Tête de la Garde",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4362581299,
+      "lat": 44.7318196,
+      "lon": 5.6441415,
+      "tags": {
+        "ele": "1997",
+        "natural": "peak",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4364537921,
+      "lat": 44.7537594,
+      "lon": 5.6247545,
+      "tags": {
+        "ele": "1903",
+        "name": "Mont Barral",
+        "natural": "peak",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4374562567,
+      "lat": 45.2957355,
+      "lon": 6.1464617,
+      "tags": {
+        "ele": "2908",
+        "name": "Puy Gris",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4374565723,
+      "lat": 45.2414847,
+      "lon": 6.107546,
+      "tags": {
+        "ele": "2927",
+        "name": "Le Rocher Blanc",
+        "natural": "peak",
+        "wikidata": "Q3437587",
+        "wikipedia": "fr:Rocher Blanc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4374952799,
+      "lat": 44.9306751,
+      "lon": 6.1061251,
+      "tags": {
+        "ele": "3465",
+        "name": "Grande Roche de la Muzelle",
+        "natural": "peak",
+        "wikidata": "Q2430602",
+        "wikipedia": "fr:Roche de la Muzelle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4417379595,
+      "lat": 45.1365078,
+      "lon": 5.6146781,
+      "tags": {
+        "ele": "1474",
+        "name": "Roche Rousse",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4470474466,
+      "lat": 45.1644804,
+      "lon": 5.9286844,
+      "tags": {
+        "ele": "2402",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4544582247,
+      "lat": 44.8135921,
+      "lon": 5.8115367,
+      "tags": {
+        "ele": "1837",
+        "name": "Le Chatel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4551208567,
+      "lat": 45.1522578,
+      "lon": 5.9945941,
+      "tags": {
+        "ele": "2842",
+        "name": "Grande Lance d'Allemont",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4579012179,
+      "lat": 45.3156447,
+      "lon": 6.1502192,
+      "tags": {
+        "name": "Pic S des Grandes Lanches",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4768243743,
+      "lat": 45.5519765,
+      "lon": 6.0019467,
+      "tags": {
+        "ele": "895",
+        "information": "board",
+        "name": "Mont Saint-Michel",
+        "natural": "peak",
+        "note": "altitude prise avec un gps, bonne précision",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4876350877,
+      "lat": 45.2203723,
+      "lon": 5.5168252,
+      "tags": {
+        "name": "Le Cuchet",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4883776542,
+      "lat": 44.9462679,
+      "lon": 5.980842,
+      "tags": {
+        "ele": "1520",
+        "name": "Le Touret",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4897463755,
+      "lat": 44.7644387,
+      "lon": 5.5330935,
+      "tags": {
+        "ele": "1882",
+        "name": "Rancou",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4897568701,
+      "lat": 44.750937,
+      "lon": 5.5487638,
+      "tags": {
+        "ele": "1508",
+        "name": "Rocher de Combau",
+        "natural": "peak"
+      }
+    }
+  ]
+}
