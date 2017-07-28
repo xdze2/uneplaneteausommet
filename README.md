@@ -6,7 +6,7 @@ Recherche systématique des ensembles de sommets pouvant former entre-eux un sys
 ![schéma sommet - planète ](./sch_distance_planet.png)
 
 
-un example :
+Un exemple :
 ![schéma sommet - planète ](./screenshot_map_v01.png)
 
 
