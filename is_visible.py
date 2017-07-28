@@ -71,17 +71,29 @@ def is_visible( lonA, latA, lonB, latB ):
     coordsA = ( lonA, latA ) 
     coordsB = ( lonB, latB ) 
 
-
+    pxA, pxB = to_px( coordsA ), to_px( coordsB )
+    
+    
+    """ Test si hors map -> alors non visible 
+    """
+    if pxA[0] >= elevation.shape[0] or pxA[1] >= elevation.shape[1]  or \
+       pxB[0] >= elevation.shape[0] or pxB[1] >= elevation.shape[1]  or \
+       pxA[0] < 0  or pxA[1] < 0 or \
+       pxB[0] < 0  or pxB[1] < 0  :
+         return False
+         
+    
     """ Calcul du nombre de point pour l'interpolation
     """
     # Distance entre A et B en pixel
-    pxA, pxB = to_px( coordsA ), to_px( coordsB )
     L = np.sqrt( (pxA[0]-pxB[0])**2 +  (pxA[1]-pxB[1])**2  )
 
     # nombre de points  pour l'interpolation entre A et B
-    N = int( np.floor( L/3 ) )  # <- facteur 3: on garde une résolution minimal 3*sqrt(2) x30m ~ 130 m
+    N = int( np.floor( L/10 ) )  # <- facteur 3: on garde une résolution minimal 3*sqrt(2) x30m ~ 130 m
 
-
+    # test si point trop proche :
+    if N < 6:
+        return True
 
     # interpolation linéaire entre A et B :
     x_span = np.linspace( pxA[0], pxB[0], N )
@@ -108,7 +120,7 @@ def is_visible( lonA, latA, lonB, latB ):
     
     # Test si le sommet est visible ou non :
     marge = 2 # mètre
-    visible = ((ligne_de_vue - elevation_reel) > -marge ).all()
+    visible = ((ligne_de_vue - elevation_reel)[1:-1] > -marge ).all()
 
     return visible
 
