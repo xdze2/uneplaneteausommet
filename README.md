@@ -1,11 +1,16 @@
 # Une Planète Au Sommet
-trouver un système solaire à l'échelle entre les sommets des montagnes
+
+Recherche systématique des ensembles de sommets pouvant former entre-eux un système solaire à l'échelle.
 
 
-Recherche systématique des ensembles de sommets pouvant former entre-eux un système solaire à l'échelle
+![schéma sommet - planète ](./sch_distance_planet.png)
 
-C'est-à-dire que leurs distances par rapport à un sommet central 'soleil' respectent les proportions des rayons des orbites de système solaire.
 
+un example :
+![schéma sommet - planète ](./screenshot_map_v01.png)
+
+
+Le notebook est [uneplaneteausommet.ipynb](./uneplaneteausommet.ipynb).
 
 
 ## install & run
