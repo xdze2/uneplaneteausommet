@@ -84,4 +84,6 @@ calculé sur les 40 sommets le plus proche de Grenoble.
        Neptune: Le Trélod (2181m)                           1.63      67.07         72.2 cm
         Pluton: Grand Colombier (1534m)                     0.33      86.92          3.5 cm
 
+![schéma sommet - planète ](./images/map_croixChamrousse_PetitVan.png)
+
 
