@@ -62,7 +62,7 @@ def get_theta( lon1, lat1, lon2, lat2 ):
 
 
 
-def is_visible( lonA, latA, lonB, latB ): 
+def is_visible( latA, lonA, latB, lonB ): 
     """ Determine si le point B est visible depuis le point A
         lonA, latA: longitude et lattitude du point A, en degrée décimaux
         
@@ -89,7 +89,7 @@ def is_visible( lonA, latA, lonB, latB ):
     L = np.sqrt( (pxA[0]-pxB[0])**2 +  (pxA[1]-pxB[1])**2  )
 
     # nombre de points  pour l'interpolation entre A et B
-    N = int( np.floor( L/10 ) )  # <- facteur 3: on garde une résolution minimal 3*sqrt(2) x30m ~ 130 m
+    N = int( np.floor( L/5 ) )  # <- facteur 
 
     # test si point trop proche :
     if N < 6:
@@ -113,14 +113,12 @@ def is_visible( lonA, latA, lonB, latB ):
 
     # **Le sommet est visible si la différence entre la _ligne de vue_ et le profil de hauteur est toujours postive. **
 
-    # Calcul de la "ligne de vue" :
+    # Calcul de l'angle de vue :
     x = R*np.array( theta_span )
     y = elevation_reel
-    ligne_de_vue = x*(y[-1]-y[0])/(x[-1]-x[0]) + y[0]
-    
-    # Test si le sommet est visible ou non :
-    marge = 2 # mètre
-    visible = ((ligne_de_vue - elevation_reel)[1:-1] > -marge ).all()
+
+    view_angle = (y[1:] - y[0])/(x[1:] - x[0])
+    visible = ((view_angle[-1] - view_angle[:-1]) > 0 ).all()
 
     return visible
 
