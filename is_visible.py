@@ -21,11 +21,11 @@ R = 6371.009 # km, rayon moyen de la terre
 transf = dataset.GetGeoTransform()
 transfInv = gdal.InvGeoTransform(transf)
 
-def to_px( coords ):
+def transf_to_px( coords ):
     px = gdal.ApplyGeoTransform(transfInv, *coords)
     return [ int( x ) for x in px ]
 
-def to_deg( pxy ):
+def transf_to_deg( pxy ):
     return gdal.ApplyGeoTransform(transf, *pxy )
 
 
@@ -71,7 +71,7 @@ def is_visible( latA, lonA, latB, lonB ):
     coordsA = ( lonA, latA ) 
     coordsB = ( lonB, latB ) 
 
-    pxA, pxB = to_px( coordsA ), to_px( coordsB )
+    pxA, pxB = transf_to_px( coordsA ), transf_to_px( coordsB )
     
     
     """ Test si hors map -> alors non visible 
@@ -99,12 +99,12 @@ def is_visible( latA, lonA, latB, lonB ):
     x_span = np.linspace( pxA[0], pxB[0], N )
     y_span = np.linspace( pxA[1], pxB[1], N )
 
-    pxy_span = [ (int(xy[0]), int(xy[1])) for xy in np.array( [ x_span, y_span ] ).T ]
-    ele_span = [ get_ele( pxy ) for pxy in pxy_span ]
-    deg_span = [ to_deg( pxy ) for pxy in pxy_span ]
+    pxy_span = np.array( [ x_span, y_span ] ).T
+    ele_span = [ get_ele( pxy_int ) for pxy_int in pxy_span.astype(int) ]
+    
+    deg_span = np.array( [ transf_to_deg( pxy ) for pxy in pxy_span ] )
 
-    theta_span = [ get_theta( *coordsA, *deg ) for deg in deg_span ]
-
+    theta_span = get_theta( *coordsA , deg_span[:, 0], deg_span[:, 1] )
 
 
     delta_courbure = R*( 1- np.cos(theta_span[-1]/2 )/np.cos( theta_span - theta_span[-1]/2 ) )*1e3
